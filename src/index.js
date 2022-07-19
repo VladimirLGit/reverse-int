@@ -9,4 +9,6 @@ function reverse (n) {
     return parseInt(result);
 }
 
+//str.split('').reverse().join('');
+
 //console.log(reverse(45678))
